@@ -8,7 +8,7 @@ function App() {
       <h1>
         Welcome to Mashter Gee Software
         </h1>
-        <h2>Web Base Application Hub</h2>
+        <h2>Web Base Application Hub.</h2>
     </div>
   );
 }
