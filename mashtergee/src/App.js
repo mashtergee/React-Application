@@ -9,6 +9,7 @@ function App() {
         Welcome to Mashter Gee Software
         </h1>
         <h2>Web Base Application Hub</h2>
+        <h2>Web Base Application Hub2</h2>
     </div>
   );
 }
